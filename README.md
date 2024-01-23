@@ -25,7 +25,9 @@ new Person({
 D:\Deri-Kurniawan> node index.js
 Hi, my name is Deri Kurniawan, I'm a Full Stack Developer from Indonesia.
 ```
-
+</br></br></br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrsec&show_icons=true&theme=radical)
+</br></br></br>
 <div align="center">
 
 [![wakatime](https://wakatime.com/badge/user/22520ecf-cee6-4d59-a21f-b5d7f4f8e491.svg)](https://wakatime.com/@22520ecf-cee6-4d59-a21f-b5d7f4f8e491) ![Followers](https://img.shields.io/github/followers/Deri-Kurniawan?label=Followers) ![Stars](https://img.shields.io/github/stars/Deri-Kurniawan?label=Stars)
