@@ -3,7 +3,7 @@
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
 <picture> 
-<a href="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer">
+<a href="[https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG15Mmh2eGtiMmZqYWNmd3Z1bmR2ZHN6d3JjaGRxdzg1NjR0dDRqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif)" alt="Developer">
 <img src="/assets//images/developer.webp" align="right" width="350">
 </a>
 </picture>
@@ -13,10 +13,10 @@
 import { Person } from 'indonesia';
 
 new Person({
-    name   : 'Deri Kurniawan',
+    name   : 'Ibrahim Seckin',
     title  : 'Full Stack Developer',
-    email  : 'deri.netuchi@gmail.com',
-    website: 'https://deri.my.id/',
+    email  : 'ibr.seckin@gmail.com',
+    website: '',
     married: !!!true,
 }).sayHello();
 ```
