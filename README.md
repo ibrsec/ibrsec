@@ -16,60 +16,12 @@ new Person({
     name   : 'Ibrahim Seckin',
     title  : 'Full Stack Developer',
     email  : 'ibr.seckin@gmail.com',
-    website: '',
-    married: !!!true,
+    website: ''
 }).sayHello();
 ```
 
-```cmd
-D:\Deri-Kurniawan> node index.js
-Hi, my name is Deri Kurniawan, I'm a Full Stack Developer from Indonesia.
-```
-</br></br></br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibrsec&show_icons=true&theme=radical)
-</br></br></br>
-<div align="center">
 
-[![wakatime](https://wakatime.com/badge/user/22520ecf-cee6-4d59-a21f-b5d7f4f8e491.svg)](https://wakatime.com/@22520ecf-cee6-4d59-a21f-b5d7f4f8e491) ![Followers](https://img.shields.io/github/followers/Deri-Kurniawan?label=Followers) ![Stars](https://img.shields.io/github/stars/Deri-Kurniawan?label=Stars)
-
-<!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                460 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
-🌆 Daytime                1890 commits        ███████████░░░░░░░░░░░░░░   42.72 % 
-🌃 Evening                1511 commits        █████████░░░░░░░░░░░░░░░░   34.15 % 
-🌙 Night                  563 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-TypeScript               30 hrs 8 mins       ████████████████████████░   95.94 % 
-JSON                     30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
-Prisma                   27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
-CSS                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
-JavaScript               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-
-🔥 Editors: 
-VS Code                  31 hrs 24 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  31 hrs 24 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 22-01-2024 17:42:31 UTC
-<!--END_SECTION:waka-->
   
-</div>
-
-<!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
