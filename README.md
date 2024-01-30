@@ -36,7 +36,7 @@ new Person({
 </a>
 </p>
 
-
+  <br/>
 <h3 align="center">📊 Github stats 📊</h3>
 
 
@@ -44,7 +44,7 @@ new Person({
 <!-- Bassed on: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
   <br/>
-  <a href="https://github.com/ibrsec/github-readme-stats"><img alt="ibrsec's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=ibrsec&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
+  <a href="https://github.com/ibrsec/github-readme-stats"><img alt="ibrsec's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=ibrsec&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=007401&icon_color=2d7de4&show_icons=true&border_color=007401&border_radius=10" height="192px"/></a>
   <a href="https://github.com/ibrsec/github-readme-stats"><img alt="ibrsec's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrsec&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
   <br/>
 
