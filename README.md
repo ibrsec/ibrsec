@@ -3,6 +3,9 @@
 <a href="https://github.com/ibrsec">![ibrsec Profile GIF](./assets/profile-header.gif)</a>
 
 
+<picture> 
+<img src="/assets/dev.webp" align="right" width="350">
+</picture>  
 
 ```js
 "use creativity";
@@ -16,9 +19,7 @@ new Person({
 }).sayHello();
 ```
 
-<picture> 
-<img src="/assets/dev.webp" align="right" width="350">
-</picture>  
+
   
 
 <!--h1 without bottom border-->
