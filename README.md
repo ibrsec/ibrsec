@@ -1,5 +1,5 @@
-### Hi there 👋
-<!--x axis divider-->
+
+<!--Header-->
 <a href="https://github.com/ibrsec">![ibrsec Profile GIF](./assets/profile-header.gif)</a>
 
 
