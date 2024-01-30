@@ -46,9 +46,7 @@ new Person({
 
 </br>
  
-  ![Snake animation](https://github.com/ibrsec/ibrsec/blob/output/github-contribution-grid-snake.svg)
-
-
+ ![Snake animation](https://github.com/ibrsec/ibrsec/blob/output/github-contribution-grid-snake.svg)
 </br>
 
 
