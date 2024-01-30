@@ -4,7 +4,7 @@
 
 
 <picture> 
-<img src="/assets/dev.webp" align="right" width="350" >
+<img src="/assets/dev.webp" align="right" width="400" >
 </picture>  
 
 ```js
