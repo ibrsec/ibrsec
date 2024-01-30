@@ -1,6 +1,6 @@
 ### Hi there 👋
 <!--x axis divider-->
-<a href="https://github.com/ibrsec">![ibrsec Profile GIF](./assets/profile-header.gif)</a>
+<a style="display:block; width:100%" href="https://github.com/ibrsec">![ibrsec Profile GIF](./assets/profile-header.gif)</a>
 
 <picture> 
 <a href="[https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG15Mmh2eGtiMmZqYWNmd3Z1bmR2ZHN6d3JjaGRxdzg1NjR0dDRqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif)" alt="Developer">
