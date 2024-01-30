@@ -1,16 +1,12 @@
 ### Hi there 👋
 <!--x axis divider-->
-<a style="display:block; width:100%" href="https://github.com/ibrsec">![ibrsec Profile GIF](./assets/profile-header.gif)</a>
+<a href="https://github.com/ibrsec">![ibrsec Profile GIF](./assets/profile-header.gif)</a>
 
-<picture> 
-<a href="[https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG15Mmh2eGtiMmZqYWNmd3Z1bmR2ZHN6d3JjaGRxdzg1NjR0dDRqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SWoSkN6DxTszqIKEqv/giphy.gif)" alt="Developer">
-<img src="/assets//images/developer.webp" align="right" width="350">
-</a>
-</picture>
+
 
 ```js
 "use creativity";
-import { Person } from 'indonesia';
+import { Person } from 'Turkey';
 
 new Person({
     name   : 'Ibrahim Seckin',
@@ -20,7 +16,9 @@ new Person({
 }).sayHello();
 ```
 
-
+<picture> 
+<img src="/assets/dev.webp" align="right" width="350">
+</picture>  
   
 
 <!--h1 without bottom border-->
