@@ -31,7 +31,7 @@ new Person({
 <!--tech stack icons-->
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java,php,py,ts,react,nextjs,vue,nuxt,tailwindcss,nodejs,express,laravel,mongodb,mysql,postgresql,sqlite,planetscale,docker,linux,git,github,vscode,figma,postman,electron,firebase,vercel,netlify,jest,jquery,vite,bootstrap,astro,sentry,cloudflare,arduino,redux,prisma,svelte&perline=11" />
+<img src="https://skillicons.dev/icons?i=html,css,js,java,py,ts,react,nextjs,vue,nodejs,express,mongodb,mysql,postgresql,docker,linux,git,github,vscode,figma,postman,netlify,jquery,bootstrap&perline=11" />
 </a>
 </p>
 
