@@ -50,9 +50,40 @@ new Person({
 
 
 </br>
- 
+<!--  
  ![Snake animation](https://github.com/ibrsec/ibrsec/blob/output/github-contribution-grid-snake.svg)
-</br>
+</br> -->
+
+
+
+
+<!--  -->
+
+###
+<br>
+
+<h2 align="center"> My projects</h2>
+
+###
+
+  Project Demo       |Libraries and Technologies I use     |Project Preview   
+:-------------------------|-------------------------|-------------------------
+[Shopping Vute Project](https://ibrsec.github.io/shopping-vite/) <h3>[Repo](https://github.com/ibrsec/product-list-react)</h3> | Vanilla JS, Bootstrap, Vite |![chat](https://github.com/ibrsec/shopping-vite/raw/main/public/assets/img/project.gif)
+[Pomotodo Vite Project](https://ibrsec.github.io/pomotodo-vite-project/) <h3>[Repo](https://github.com/ibrsec/pomotodo-vite-project)</h3> | Vanilla JS, Bootstrap, Vite,Sass |![iss](https://github.com/ibrsec/pomotodo-vite-project/raw/main/assets/img/project.gif)
+<!-- [React Schiphol Airport Flights App](https://reliable-chimera-0baadb.netlify.app/) <h3>[Repo](https://github.com/canocalir/schipol-metrics)</h3> | ReactJS, Styled Components, React Toastify, Official Schipol Api |![schiphol](https://user-images.githubusercontent.com/11324886/200136369-42e3d85c-8f91-4d55-a5df-e8ab93f4549d.gif)
+[React - Redux Firebase Blog App](https://gleaming-bunny-a87b8c.netlify.app/) <h3>[Repo](https://github.com/canocalir/reactor-blog)</h3> | ReactJS, Styled Components, Redux Toolkit, Firebase | ![blog](https://user-images.githubusercontent.com/11324886/202948194-cd867a9d-aa44-4da3-9312-5859f2a84049.gif)
+[React Typescript Pokedex](https://pokedex-typescript-chi.vercel.app/) <h3>[Repo](https://github.com/canocalir/pokedex-typescript)</h3> | ReactJS, Styled Components, Redux Toolkit, Typescript, ReactRouterDom | ![pokemon-new](https://user-images.githubusercontent.com/11324886/218631430-9453920e-dc7d-4421-93bc-7b9c33808a84.gif)
+[React Rijks Museum Color to Art App](https://startling-paprenjak-68c1ff.netlify.app/) <h3>[Repo](https://github.com/canocalir/rijksmuseum-colortopainting)</h3> | ReactJS, Styled Components, React Router, Sass, Official RijksMuseum Api |![rijks](https://user-images.githubusercontent.com/11324886/202180622-ad1b3cd7-47df-4b2b-9fcb-62ea6d751698.gif)
+[React Firebase Movie App](https://musical-moonbeam-a4cdde.netlify.app/) <h3>[Repo](https://github.com/canocalir/movie-database)</h3> | ReactJS, Styled Components, Firebase Authentication, Flowbite React, Tailwind CSS, The Movie Database Api, React Toastify |![movie](https://user-images.githubusercontent.com/11324886/200697849-9cad9dba-e885-40ba-95e6-6625dfbfed77.gif)
+[React LastFM App](https://famous-fenglisu-81825c.netlify.app/) <h3>[Repo](https://github.com/canocalir/lastfm-app)</h3> | ReactJS, Styled Components, Redux Toolkit, React Query, React Testing Library, Storybook |![lastfm](https://user-images.githubusercontent.com/11324886/204116073-e0f64ee2-5671-41e4-8a1d-a8140038eec6.gif)
+[React Turkey Earthquake App](https://chimerical-eclair-cd9cee.netlify.app/) <h3>[Repo](https://github.com/canocalir/earthquake-app)</h3> | ReactJS, Pigeon Maps, SASS Modules |![earthquake](https://user-images.githubusercontent.com/11324886/195408038-20a679dd-34a5-4607-80ae-e914048c6218.gif)
+[React Recipe App](https://prismatic-duckanoo-10bdd4.netlify.app/login) <h3>[Repo](https://github.com/canocalir/recipe-app)</h3> | ReactJS, React Router, Styled Components, SASS Modules |![react-recipe](https://user-images.githubusercontent.com/11324886/198851171-71801f20-ec83-4a10-8ca7-1dd7737e884c.gif) -->
+
+
+
+<!--  -->
+
+
 
 
 
