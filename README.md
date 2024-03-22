@@ -68,8 +68,13 @@ new Person({
 
   Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
-[Shopping Vute Project](https://ibrsec.github.io/shopping-vite/) <h3>[Repo](https://github.com/ibrsec/product-list-react)</h3> | Vanilla JS, Bootstrap, Vite |![chat](https://github.com/ibrsec/shopping-vite/raw/main/public/assets/img/project.gif)
+[Shopping Vute Project](https://ibrsec.github.io/shopping-vite/) <h3>[Repo](https://github.com/ibrsec/shopping-vite)</h3> | Vanilla JS, Bootstrap, Vite |![chat](https://github.com/ibrsec/shopping-vite/raw/main/public/assets/img/project.gif)
 [Pomotodo Vite Project](https://ibrsec.github.io/pomotodo-vite-project/) <h3>[Repo](https://github.com/ibrsec/pomotodo-vite-project)</h3> | Vanilla JS, Bootstrap, Vite,Sass |![iss](https://github.com/ibrsec/pomotodo-vite-project/raw/main/assets/img/project.gif)
+[Rick and Morty Characters](https://ibrsec.github.io/rickandmorty) <h3>[Repo](https://github.com/ibrsec/rickandmorty)</h3> | HTML,CSS, Vanilla JS, Sass |![iss](https://github.com/ibrsec/rickandmorty/raw/main/assets/img/project.gif)
+[Shopping Cart Page](https://ibrsec.github.io/shopping-cart) <h3>[Repo](https://github.com/ibrsec/shopping-cart)</h3> | HTML,CSS, Vanilla JS |![iss](https://github.com/ibrsec/shopping-cart/raw/main/img/project.gif)
+[Photo Gallery](https://ibrsec.github.io/photo-gallery) <h3>[Repo](https://github.com/ibrsec/photo-gallery)</h3> | HTML,CSS, Vanilla JS |![iss](https://github.com/ibrsec/photo-gallery/raw/main/img/p.gif)
+[Growth App](https://ibrsec.github.io/Growth-app) <h3>[Repo](https://github.com/ibrsec/Growth-app)</h3> | HTML,CSS, Vanilla JS |![iss](https://github.com/ibrsec/Growth-app/raw/main/images/p.gif)
+[Manheim Home Page](https://ibrsec.github.io/any-homepage) <h3>[Repo](https://github.com/ibrsec/any-homepage)</h3> | HTML,CSS, Bootstrap |![iss](https://github.com/ibrsec/any-homepage/raw/main/img/p.gif)
 <!-- [React Schiphol Airport Flights App](https://reliable-chimera-0baadb.netlify.app/) <h3>[Repo](https://github.com/canocalir/schipol-metrics)</h3> | ReactJS, Styled Components, React Toastify, Official Schipol Api |![schiphol](https://user-images.githubusercontent.com/11324886/200136369-42e3d85c-8f91-4d55-a5df-e8ab93f4549d.gif)
 [React - Redux Firebase Blog App](https://gleaming-bunny-a87b8c.netlify.app/) <h3>[Repo](https://github.com/canocalir/reactor-blog)</h3> | ReactJS, Styled Components, Redux Toolkit, Firebase | ![blog](https://user-images.githubusercontent.com/11324886/202948194-cd867a9d-aa44-4da3-9312-5859f2a84049.gif)
 [React Typescript Pokedex](https://pokedex-typescript-chi.vercel.app/) <h3>[Repo](https://github.com/canocalir/pokedex-typescript)</h3> | ReactJS, Styled Components, Redux Toolkit, Typescript, ReactRouterDom | ![pokemon-new](https://user-images.githubusercontent.com/11324886/218631430-9453920e-dc7d-4421-93bc-7b9c33808a84.gif)
