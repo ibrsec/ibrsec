@@ -68,7 +68,8 @@ new Person({
 
   Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
-[Todo React App](https://todo-react-sigma-sepia.vercel.app/) <h3>[Repo](https://github.com/ibrsec/todo-react)</h3> | React, Sass, Bootstrap,  Html, js |![chat](https://github.com/ibrsec/todo-react/raw/main/src/img/project.gif)
+[Random User React App](https://random-user-react-gray.vercel.app/) <h3>[Repo](https://github.com/ibrsec/todo-react)</h3> | React, Sass, Bootstrap,  Html, js |![chat](https://github.com/ibrsec/todo-react/raw/main/src/img/project.gif)
+[Todo React App](https://todo-react-sigma-sepia.vercel.app/) <h3>[Repo](https://github.com/ibrsec/todo-react)</h3> | React, Sass, Bootstrap,  Html, js |![chat](https://github.com/ibrsec/random-user-react/raw/master/public/img/project.gif)
 [Hospital Appointment React Project](https://accordion-react-neon.vercel.app/) <h3>[Repo](https://github.com/ibrsec/accordion-react)</h3> | React, Sass, Bootstrap,  Html, js |![chat](https://github.com/ibrsec/accordion-react/raw/main/src/img/project.gif)
 [Hospital Appointment React Project](https://appointment-app-snowy-beta.vercel.app/) <h3>[Repo](https://github.com/ibrsec/appointment-app)</h3> | React, Sass, Css Modules,Html, js |![chat](https://github.com/ibrsec/appointment-app/raw/master/src/img/project.gif)
 [NBA Legends React Project](https://nba-legends-henna.vercel.app/) <h3>[Repo](https://github.com/ibrsec/nba-legends)</h3> | React, Sass, Css Modules,Html, js |![chat](https://github.com/ibrsec/nba-legends/raw/master/src/img/project.gif)
