@@ -68,6 +68,8 @@ new Person({
 
   Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
+[Random User React App](https://ultra-stock-app.vercel.app/) <h3>[Repo](https://github.com/ibrsec/stock-app)</h3> | React, Sass, Bootstrap,  Html, js |![chat](https://github.com/ibrsec/stock-app/raw/master/public/project.gif)
+[Random User React App](https://ultra-blog-app.vercel.app/) <h3>[Repo](https://github.com/ibrsec/blog-app)</h3> | React, Sass, Bootstrap,  Html, js |![chat](https://github.com/ibrsec/blog-app/raw/master/public/project.gif)
 [Random User React App](https://random-user-react-gray.vercel.app/) <h3>[Repo](https://github.com/ibrsec/random-user-react)</h3> | React, Sass, Bootstrap,  Html, js |![chat](https://github.com/ibrsec/random-user-react/raw/master/public/img/project.gif)
 [Todo React App](https://todo-react-sigma-sepia.vercel.app/) <h3>[Repo](https://github.com/ibrsec/todo-react)</h3> | React, Sass, Bootstrap,  Html, js |![chat](https://github.com/ibrsec/todo-react/raw/main/src/img/project.gif)
 [Hospital Appointment React Project](https://accordion-react-neon.vercel.app/) <h3>[Repo](https://github.com/ibrsec/accordion-react)</h3> | React, Sass, Bootstrap,  Html, js |![chat](https://github.com/ibrsec/accordion-react/raw/main/src/img/project.gif)
