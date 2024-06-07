@@ -15,7 +15,7 @@ new Person({
     name   : 'Ibrahim Seckin',
     title  : 'Full Stack Developer',
     email  : 'ibr.seckin@gmail.com',
-    website: ''
+    website: 'https://ibrahimseckin-portfolio.vercel.app'
 }).sayHello();
 ```
 
