@@ -32,7 +32,7 @@ new Person({
 <!-- https://github.com/tandpfun/skill-icons#readme -->
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=html,css,js,java,react,vite,mysql,linux,git,github,vscode,figma,postman,netlify,bootstrap,sass&perline=8" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,express,html,css,js,nodejs,redux,ts,java,vite,mysql,linux,git,github,vscode,figma,postman,netlify,bootstrap,sass,tailwind,materialui,firebase,sqlitepostgres,mongodb,cypress,&perline=8" />
 <!-- ts,nextjs,vue,nodejs,express,mongodb,postgresql,docker,jquery -->
 </a>
 </p>
