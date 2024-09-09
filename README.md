@@ -41,7 +41,7 @@ new Person({
   
 
   <h3 align="center">🧮 Visitors 🧮</h3>
-<img align="left" src = "https://profile-counter.glitch.me/ibrsec/count.svg" alt ="Loading">
+<img align="center" src = "https://profile-counter.glitch.me/ibrsec/count.svg" alt ="Loading">
 <br><br>
 
 <h3 align="center">📊 Github stats 📊</h3>
