@@ -81,9 +81,6 @@ new Person({
 [CapsBlog Full Stack](https://capsblog-fs-express-react.onrender.com/) <h3>[Repo](https://github.com/ibrsec/Capsblog-fullstack)</h3> | React, redux, axios, tailwind, redux-persist, react-router, Express, mongoDB, jwt,nodemailer |![chat](https://github.com/ibrsec/Capsblog-fullstack/raw/master/client/public/project.gif)
 [ChatApp Full Stack](https://chat-app-socket-fs.onrender.com/) <h3>[Repo](https://github.com/ibrsec/chat-app-socket-fs)</h3> | React, redux, axios, tailwind, redux-persist, react-router, Express, mongoDB, jwt, socket |![chat](https://github.com/ibrsec/chat-app-socket-fs/raw/main/client/public/project.gif)
 [BS Store Full Stack](https://bs-store-fullstack-render.onrender.com/) <h3>[Repo](https://github.com/ibrsec/bs-store-fullstack-render)</h3> | React, redux, axios, material-ui, redux-persist, react-router, Express, mongoDB, jwt |![chat](https://github.com/ibrsec/bs-store-fullstack-render/raw/main/client/public/project.gif)
-
-
-<!--  [Blog App with a external api](https://ultra-blog-app.vercel.app/) <h3>[Repo](https://github.com/ibrsec/blog-app)</h3> | React, redux, axios, material, redux-persist, react-router |![chat](https://github.com/ibrsec/blog-app/raw/master/public/project.gif) -->
 [Random User React App](https://random-user-react-gray.vercel.app/) <h3>[Repo](https://github.com/ibrsec/random-user-react)</h3> | React, Sass, Bootstrap,  Html, js |![chat](https://github.com/ibrsec/random-user-react/raw/master/public/img/project.gif)
 [Todo React App](https://todo-react-sigma-sepia.vercel.app/) <h3>[Repo](https://github.com/ibrsec/todo-react)</h3> | React, Sass, Bootstrap,  Html, js |![chat](https://github.com/ibrsec/todo-react/raw/main/src/img/project.gif)
 [Hospital Appointment React Project](https://accordion-react-neon.vercel.app/) <h3>[Repo](https://github.com/ibrsec/accordion-react)</h3> | React, Sass, Bootstrap,  Html, js |![chat](https://github.com/ibrsec/accordion-react/raw/main/src/img/project.gif)
@@ -100,6 +97,7 @@ new Person({
 
  
  
+
 
 
 
